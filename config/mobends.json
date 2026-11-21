@@ -1,0 +1,15 @@
+{
+  "showSwordTrail": true,
+  "showArrowTrails": true,
+  "itemUseClassifications": [],
+  "itemAttackClassifications": [],
+  "keepArmorAsVanilla": [],
+  "keepEntityAsVanilla": [],
+  "animated": {},
+  "typeRanks": {
+    "midgard_jobs:viking_villager": 2,
+    "midgard_jobs:worker": 1
+  },
+  "extensionRanks": {},
+  "options": {}
+}

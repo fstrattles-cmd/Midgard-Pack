@@ -1,0 +1,3 @@
+#Shows client-side debug markers for structure attempts received from a modded server.
+showDebugStructureMarkers = false
+

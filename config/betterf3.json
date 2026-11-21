@@ -1,0 +1,74 @@
+{
+  "modules": {
+    "fps": {
+      "enabled": true,
+      "lines": {
+        "fps": true
+      }
+    },
+    "coords": {
+      "enabled": true,
+      "lines": {
+        "player_coords": true,
+        "block_coords": false,
+        "chunk_relative_coords": false,
+        "chunk_coords": false
+      }
+    },
+    "location": {
+      "enabled": true,
+      "lines": {
+        "dimension": false,
+        "facing": true,
+        "rotation": false,
+        "light": true,
+        "light_server": false,
+        "highest_block": false,
+        "highest_block_server": false,
+        "biome": true,
+        "local_difficulty": false,
+        "day_ticks": false,
+        "days_played": false,
+        "slime_chunk": false
+      }
+    },
+    "system": {
+      "enabled": true,
+      "lines": {
+        "time": false,
+        "java_version": false,
+        "memory_usage": true,
+        "allocation_rate": false,
+        "allocated_memory": false,
+        "cpu": false,
+        "display": false,
+        "gpu": false,
+        "gpu_utilization": false,
+        "opengl_version": false,
+        "gpu_driver": false
+      }
+    },
+    "graphics": {
+      "enabled": true,
+      "lines": {
+        "render_distance": true,
+        "graphics": false,
+        "clouds": false,
+        "biome_blend_radius": false,
+        "shader": true
+      }
+    }
+  },
+  "general": {
+    "modules_left_order": [
+      "fps",
+      "coords",
+      "location"
+    ],
+    "modules_right_order": [
+      "system",
+      "graphics"
+    ],
+    "space_modules": false
+  }
+}

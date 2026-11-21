@@ -1,0 +1,5 @@
+#Draw far-away terrain with Distant Horizons. Also in the video settings, next to render distance.
+distantHorizons = true
+#The graphics preset last chosen in Options, Graphics Presets (NO_SHADERS, POTATO, MEDIUM, HIGH; NONE = none chosen yet).
+graphicsPreset = "MEDIUM"
+

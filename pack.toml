@@ -1,0 +1,11 @@
+name = "Midgard 1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "64dec62d0bd473ece242ea63148e5cdd40587c34adffeb1fa902fad9ed4cd6d4"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"
