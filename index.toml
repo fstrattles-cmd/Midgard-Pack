@@ -783,8 +783,8 @@ file = "mods/midgard_jobs-1.16.jar"
 hash = "720d37e092e030d6bda3788e2f336762ddc91b0c93d4568192c7cd2d233d5e3c"
 
 [[files]]
-file = "mods/midgard_tweaks-0.1.0.jar"
-hash = "453481fa89221ec9ebdc5d4727a6d5bce899b2ebe753ca370dea8d12fc40493a"
+file = "mods/midgard_tweaks-0.1.1.jar"
+hash = "21ffdd9d3b14db5f2f6702e048ab337c8284141dbbb7084cb77adf64a7261281"
 
 [[files]]
 file = "mods/mo-bends.pw.toml"
