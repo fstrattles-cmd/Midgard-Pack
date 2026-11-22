@@ -779,8 +779,8 @@ file = "mods/midgard_enchanting-0.1.0.jar"
 hash = "1c1ee76e7420455b81c52851667fc3c5a3f666b3d211ae42bcb37076b1a670cd"
 
 [[files]]
-file = "mods/midgard_jobs-1.06.jar"
-hash = "a9152711a169586faa24d419c306970ffedd815cdd53bea356ec93af9ec93acb"
+file = "mods/midgard_jobs-1.07.jar"
+hash = "dceec6729a93c87ea73ba9d738cef00c8e9ce36faaca8629d97a9c00d017fcca"
 
 [[files]]
 file = "mods/midgard_tweaks-0.1.0.jar"
