@@ -325,10 +325,6 @@ file = "config/railways-common.toml"
 hash = "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f"
 
 [[files]]
-file = "config/recruits-client.toml"
-hash = "2acaa708efd05c15dac84d0c2c4d138a65c2f23e92b0218a9a3fdc542a33c173"
-
-[[files]]
 file = "config/sidebar_buttons.json"
 hash = "d12bcdd59a36b21e0aafaab84c9ef6749d8aeab3e28e814571625a58a5db3a87"
 
@@ -469,10 +465,6 @@ file = "config/ultraterraforged/client.json"
 hash = "7959474f61a96bbc3053edcbcbc00054c8b53505eafbdce5cb733b00174dad47"
 
 [[files]]
-file = "config/vhtweaks-client.toml"
-hash = "a30b374ed856b24ba05e665fb0a4aa1558b400010d9af96d86991dd96813c82b"
-
-[[files]]
 file = "config/voicechat-client.toml"
 hash = "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5"
 
@@ -547,14 +539,6 @@ hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
 [[files]]
 file = "defaultconfigs/ftbquests/client-config.snbt"
 hash = "4ce84f0da35036f810959086ea1043062993bf34ae704fc9cd4f1a67810090a6"
-
-[[files]]
-file = "defaultconfigs/recruits-server.toml"
-hash = "b54d3f747cb221752be95ad0d14461eeb5d789d56c4877f8510f7b6292f7c6ea"
-
-[[files]]
-file = "defaultconfigs/workers-server.toml"
-hash = "e430401676157ac452781799ba055a587a32479192baa8f62d8ce4bd20f62fc9"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -779,8 +763,8 @@ file = "mods/midgard_enchanting-0.1.0.jar"
 hash = "1c1ee76e7420455b81c52851667fc3c5a3f666b3d211ae42bcb37076b1a670cd"
 
 [[files]]
-file = "mods/midgard_jobs-1.16.jar"
-hash = "720d37e092e030d6bda3788e2f336762ddc91b0c93d4568192c7cd2d233d5e3c"
+file = "mods/midgard_jobs-1.17.jar"
+hash = "393dc168efb53fb578a9c1999001c2b0f5f61d7ab067d874ba846d60deb6e747"
 
 [[files]]
 file = "mods/midgard_tweaks-0.1.1.jar"
