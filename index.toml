@@ -670,6 +670,11 @@ hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "31bec9d75cc9e7e00e3b564c7ad5ff161840a7f5d2a6e39e6ba4672b15ed2040"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "887ed2e25880009d1fac1c8522b10cda7da02e61962b17132f4777c2fd87a8a8"
 metafile = true
@@ -813,6 +818,11 @@ metafile = true
 [[files]]
 file = "mods/punchy.pw.toml"
 hash = "cee9ffb45aa910449c3f2feaf82111110eacb411569d06d4dcc3d02be975828d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "26569e19bf9fb02bf38c8870b65158912d2bc024a6d78af3647257c7f8fe50d1"
 metafile = true
 
 [[files]]
