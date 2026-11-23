@@ -755,8 +755,8 @@ hash = "be2898a941566e0de7efa048536aadebf24b4bd15533b4a9b671cd0bedb68a3a"
 metafile = true
 
 [[files]]
-file = "mods/midgard_blocks-0.3.1.jar"
-hash = "31a97a25de2082c0a5409255ccda6e7261732c7d0a0aa7d1e7c34cb75d8146c2"
+file = "mods/midgard_blocks-0.3.2.jar"
+hash = "5c9b30381f53a3c1a6d5c9d8be7fd0fa04fbee5461c10f7a1250e928dbbb1426"
 
 [[files]]
 file = "mods/midgard_enchanting-0.1.0.jar"
